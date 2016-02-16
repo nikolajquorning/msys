@@ -14,7 +14,7 @@
 ;********** PROGRAM-LOOP ********
    CLR  R16
 LOOP:
-   LDI  R17,9           ;R17 = 9 
+   LDI  R17,1           ;R17 = 1
    ADD  R16,R17         ;R16 = R16 + R17
    CALL DISP_AND_DELAY  ;Display R16
    JMP  LOOP            ;Jump to "LOOP"
