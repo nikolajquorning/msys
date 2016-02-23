@@ -23,7 +23,10 @@
   <FILE>LAB3.lss</FILE>
  </OUTPUT_FILES>
  <LABELS>
-  <start><FILE>C:\msys\LAB3\LAB3\main.asm</FILE><LINE>10</LINE></start>
-  <end><FILE>C:\msys\LAB3\LAB3\main.asm</FILE><LINE>13</LINE></end>
+  <TONE><FILE>C:\msys\LAB3\LAB3\main.asm</FILE><LINE>99</LINE></TONE>
+  <HERE><FILE>C:\msys\LAB3\LAB3\main.asm</FILE><LINE>76</LINE></HERE>
+  <DELAY><FILE>C:\msys\LAB3\LAB3\main.asm</FILE><LINE>85</LINE></DELAY>
+  <AGAIN><FILE>C:\msys\LAB3\LAB3\main.asm</FILE><LINE>87</LINE></AGAIN>
+  <PLAY><FILE>C:\msys\LAB3\LAB3\main.asm</FILE><LINE>101</LINE></PLAY>
  </LABELS>
 </ASSEMBLER_INFO>
