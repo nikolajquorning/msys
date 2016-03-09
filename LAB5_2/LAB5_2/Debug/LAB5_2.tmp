@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\msys\LAB5_2\LAB5_2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc</DIR>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\msys\LAB5_2\LAB5_2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\msys\LAB5_2\LAB5_2\Debug\LAB5_2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>LAB5_2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>LAB5_2.map</FILE>
+  <FILE>LAB5_2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <HERE><FILE>C:\msys\LAB5_2\LAB5_2\main.asm</FILE><LINE>20</LINE></HERE>
+  <KNAP7><FILE>C:\msys\LAB5_2\LAB5_2\main.asm</FILE><LINE>40</LINE></KNAP7>
+  <KNAP6><FILE>C:\msys\LAB5_2\LAB5_2\main.asm</FILE><LINE>46</LINE></KNAP6>
+  <KNAP5><FILE>C:\msys\LAB5_2\LAB5_2\main.asm</FILE><LINE>52</LINE></KNAP5>
+  <KNAP4><FILE>C:\msys\LAB5_2\LAB5_2\main.asm</FILE><LINE>58</LINE></KNAP4>
+  <KNAP3><FILE>C:\msys\LAB5_2\LAB5_2\main.asm</FILE><LINE>64</LINE></KNAP3>
+  <KNAP2><FILE>C:\msys\LAB5_2\LAB5_2\main.asm</FILE><LINE>72</LINE></KNAP2>
+  <KNAP1><FILE>C:\msys\LAB5_2\LAB5_2\main.asm</FILE><LINE>83</LINE></KNAP1>
+  <KNAP0><FILE>C:\msys\LAB5_2\LAB5_2\main.asm</FILE><LINE>90</LINE></KNAP0>
+  <DELAY><FILE>C:\msys\LAB5_2\LAB5_2\main.asm</FILE><LINE>97</LINE></DELAY>
+  <L1><FILE>C:\msys\LAB5_2\LAB5_2\main.asm</FILE><LINE>76</LINE></L1>
+  <LOOP><FILE>C:\msys\LAB5_2\LAB5_2\main.asm</FILE><LINE>99</LINE></LOOP>
+ </LABELS>
+</ASSEMBLER_INFO>
