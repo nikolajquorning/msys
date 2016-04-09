@@ -19,7 +19,7 @@
 HERE:
    LDI  R20,239   ;c
    SBIS PINA, 7
-   CALL TONE 
+   CALL TONE
    LDI  R20,213   ;D
    SBIS PINA, 6
    CALL TONE
