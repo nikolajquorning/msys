@@ -23,6 +23,8 @@ unsigned char enere = 0;
   
   while(1)
   {
+	  T1Delay();
+
 	  enere++;
 	  if(enere > 9) {
 		  enere = 0;
